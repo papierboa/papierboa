@@ -3,5 +3,5 @@
   <br>
 damn that's crazy dot com forward slash thanks for sharing
   <br>
-<a href="https://papierboa.neocities.org/">my neocities</a>
+<a href="https://papierboa.neocities.org/" target="_blank">my neocities</a>
 </div>
