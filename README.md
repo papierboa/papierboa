@@ -3,5 +3,7 @@
   <br>
 damn that's crazy dot com forward slash thanks for sharing
   <br>
+  pfp/profile art by meee
+  <br>
 <a href="https://papierboa.neocities.org/" target="_blank">my neocities</a>
 </div>
